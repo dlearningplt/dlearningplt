@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to D-Learning. This is a github space for all D Learning content and projects.
+Welcome to D-Learning. This is our github space for all the contect and projects created at D Learning.
 
 Please visit our website at d-learning.ml[http://www.d-learning.ml]
 
