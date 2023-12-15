@@ -2,7 +2,7 @@
 
 Welcome to D-Learning. This is our github space for all the contect and projects created at D Learning.
 
-Please visit our [website](https://www.d-learning.ml)
+Please visit our [http://dlearningconsultancy.com/]
 
 <!--
 **dlearningplt/dlearningplt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
